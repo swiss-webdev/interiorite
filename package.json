@@ -1,0 +1,25 @@
+{
+    "name": "Emilie-Bolis-Website",
+    "author": {
+        "name": "Mathias Gilson"
+    },
+    "homepage": "http://www.intériorité.ch/",
+    "engines": {
+        "node": ">= 0.6.0",
+        "npm": ">= 1.0.0"
+    },
+
+    "dependencies": {
+        "express": "4.*",
+        "jade": "1.8.*",
+        "serve-favicon": "*",
+        "path": "*",
+        "method-override": "*",
+        "body-parser": "*"
+    },
+    "devDependencies": {},
+    "bundleDependencies": [],
+
+    "private": true,
+    "main": "server.js"
+}
